@@ -1,0 +1,22 @@
+{
+  "name": "validador-boleto-bancario",
+  "version": "1.0.0",
+  "description": "Recurso para validar de forma rápida códigos de barras e linhas digitáveis de boletos bancários",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ricardoalves-dev/validador-boleto-bancario.git"
+  },
+  "author": "Ricardo Alves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ricardoalves-dev/validador-boleto-bancario/issues"
+  },
+  "homepage": "https://github.com/ricardoalves-dev/validador-boleto-bancario#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
