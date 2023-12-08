@@ -4,7 +4,7 @@
   "description": "Recurso para validar de forma rápida códigos de barras e linhas digitáveis de boletos bancários",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ricardoalves-dev/validador-boleto-bancario#readme",
   "devDependencies": {
     "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "@types/jest": "^29.5.11"
   }
 }
